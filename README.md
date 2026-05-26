@@ -1,7 +1,9 @@
 # SECURITY-OPERATION - CENTER (SOC Projrcts and labs)
 ## Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
 
-## Windows Event Monitoring Using Splunk in A Simulated SOC Lab
+# (Lab1) 
+# Windows Event Monitoring Using Splunk in A Simulated SOC Lab
+
 ### SOC lab without Splunk, each component generate and keeps its logs
 <img src="Resources/Splunk.png" alt="Lab image">
 
@@ -10,25 +12,25 @@ To simulate a basic SOC environment by collecting and monitoring system logs usi
 ### SOC Labs with Splunk Forwarders ingesting logs to Splunk ES
 <img src="Resources/Forwarders.png" alt="lab image with forwarders"> 
 
-## Tools Used
+### Tools Used
 - Splunk ES (installed locally)
 - Splunk Forwarders (Installed on VMs)
 - Windows 10 VM with Sysmon installed
-  ## Project Task and Steps
-  ## 1 Set up Splunk ES
+  ### Project Task and Steps
+  ### A) Set up Splunk ES
   - Installed Splunk locally
   - Create a Splunk Admin account
   -  Enable port 8000 access
-  ## 2 Installed and configured Sysmon on windows
+  ### B) Installed and configured Sysmon on windows
   - Used SwiftOnSecurity Sysmon cofiguration
   - Log key activities like process creation, network connection, file creation
-  ## 3  Forward Logs to SplunK
+  ### C)  Forward Logs to SplunK
   - Used Splunk Universal Forwarders to collect logs from VMs to Splunk ES
   - Index and Tag Log sources as Windows and Sysmon
-  ## 4 Create Dashboards
-  ## 5 Set Detection Alerts
-  ## 6 Simulate Attacks
-  ## 7 Document Your Findings
+  ### D) Create Dashboards
+  ### E) Set Detection Alerts
+  ### F) Simulate Attacks
+  ### G) Document Your Findings
 
 -------------------------------------------------------------------------------------------------------------------------------
 # 2) Brute-Force-Detection-App-using-Python-Streamlit
