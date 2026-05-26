@@ -1,6 +1,6 @@
-## Security-Operations-Center-SOC-Projects-
-#Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
-
+### Security-Operations-Center-SOC-Projects-
+## Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
+# 1) Brute-Force-Detection-App-using-Python-Streamlit
 ## Screenshots 
 ## Before
 <img src="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit/blob/main/Brute%20force.png" alt="Lab image">
