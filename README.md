@@ -41,7 +41,7 @@ Leveraging Microsoft Defender for Endpoint, KQL-based analytics, and automated p
 # 2) Windows Event Monitoring Using Splunk in A Simulated SOC Lab
 
 ### SOC lab without Splunk, each component generate and keeps its logs
-<img src="Resources/Splunk.png" alt="Lab image">
+<img src="Splunk (1).png" alt="Lab image">
 
 ## Project Objectives
 To simulate a basic SOC environment by collecting and monitoring system logs using Splunk ES, and creating arlets for potential security incidents( Brute force attempts, failed logins etc), create an vizualizse results on dashboards.
