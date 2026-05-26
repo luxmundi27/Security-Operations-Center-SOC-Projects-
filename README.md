@@ -1,8 +1,8 @@
 # SECURITY-OPERATION - CENTER (SOC Projrcts and labs)
 ## Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
 
-# (Lab1) 
-# Windows Event Monitoring Using Splunk in A Simulated SOC Lab
+
+# 1) Windows Event Monitoring Using Splunk in A Simulated SOC Lab
 
 ### SOC lab without Splunk, each component generate and keeps its logs
 <img src="Resources/Splunk.png" alt="Lab image">
@@ -75,3 +75,18 @@ Develop a user-friendly application that helps identify potential brute-force at
 •	Internal tool for sysadmins to audit login security
 
 •	Prototype module for larger SIEM systems
+
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 3) Phishing Detection using Python and Streamlit
+<img src="Phishing.png" alt="Lab image">
+
+## Discription 
+This project presents a lightweight and powerful Phishing URL Detection Tool built with Python and Streamlit. The goal is to protect users from falling victim phishing attacks 
+## Key Features
+- URL Input and real time prediction
+- Clean and simple web UI built with Streamlit
+# Objectives
+- Detect whether a URL is phishing or legitimate
+- Build and easy to use web UI with Streamlit
+- Educate users of common phishing indicators
+  
