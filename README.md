@@ -1,4 +1,4 @@
-# SECURITY-OPERATION - CENTER (SOC Projrcts and labs)
+# SECURITY-OPERATION - CENTER ( 6 SOC Projects and labs)
 ## Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
 
 
