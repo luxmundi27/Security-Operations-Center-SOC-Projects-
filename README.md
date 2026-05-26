@@ -4,7 +4,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 1) Cloud-Native EDR: Automated Threat Response with Microsoft Sentinel
-<img src="Resources/Sentinel.png" alt="Lab image"> (Go to main repo to view images)
+<img src="Sentinel (1).png" alt="Lab image"> 
 
 This diagram illustrates the seamless flow from endpoint telemetry to threat detection and automated remediation. It highlights key components such as:
 - Endpoints: Devices generating telemetry and behavioral data
