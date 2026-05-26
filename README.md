@@ -2,7 +2,43 @@
 ## Security Operations Center labs, SIEM engineering, detection engineering, and threat hunting projects.
 
 
-# 1) Windows Event Monitoring Using Splunk in A Simulated SOC Lab
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 1) Cloud-Native EDR: Automated Threat Response with Microsoft Sentinel
+<img src="Resources/Sentinel.png" alt="Lab image"> (Go to main repo to view images)
+
+This diagram illustrates the seamless flow from endpoint telemetry to threat detection and automated remediation. It highlights key components such as:
+- Endpoints: Devices generating telemetry and behavioral data
+- Defender for Endpoint: Providing deep threat intelligence and protection
+- Microsoft Sentinel: Centralizing logs, alerts, and orchestrating response
+- KQL Rules & Playbooks: Enabling customizable detection and automation
+- Response Actions: Isolating compromised devices and mitigating threats
+
+## Description 
+This project showcases a cloud-native Endpoint Detection and Response (EDR) solution built on Microsoft Sentinel, designed to detect, investigate, and respond to threats in real time across distributed environments.
+Leveraging Microsoft Defender for Endpoint, KQL-based analytics, and automated playbooks, this solution demonstrates how to build a scalable, intelligent, and responsive security operations framework in Azure.
+## Key Features 
+<img src="MSSS.png" alt="Lab image">
+
+- Real-Time Threat Detection using custom and built-in Sentinel analytics rules
+- Automated Incident Response via Logic Apps and Sentinel Playbooks
+- Integration with Microsoft Defender for Endpoint for enriched telemetry
+- Threat Hunting Workbooks for proactive investigation
+- Scalable Architecture suitable for enterprise-grade deployments
+## Technologies Used
+- Microsoft Sentinel (SIEM + SOAR)
+- Microsoft Defender for Endpoint
+- Azure Logic Apps
+- Kusto Query Language (KQL)
+- Azure Monitor & Log Analytics
+- PowerShell & Azure CLI (optional automation)
+## Used Cases
+- Detecting ransomware and lateral movement across endpoints
+- Automating isolation of compromised devices
+- Visualizing endpoint threat trends and anomalies
+- Integrating threat intelligence feeds for enriched detection
+
+
+# 2) Windows Event Monitoring Using Splunk in A Simulated SOC Lab
 
 ### SOC lab without Splunk, each component generate and keeps its logs
 <img src="Resources/Splunk.png" alt="Lab image">
@@ -33,7 +69,7 @@ To simulate a basic SOC environment by collecting and monitoring system logs usi
   ### G) Document Your Findings
 
 -------------------------------------------------------------------------------------------------------------------------------
-# 2) Brute-Force-Detection-App-using-Python-Streamlit
+# 3) Brute-Force-Detection-App-using-Python-Streamlit
 ## Screenshots 
 ## Before
 <img src="https://github.com/luxmundi27/Brute-Force-Detection-App-using-Python-Streamlit/blob/main/Brute%20force.png" alt="Lab image">
@@ -77,7 +113,7 @@ Develop a user-friendly application that helps identify potential brute-force at
 •	Prototype module for larger SIEM systems
 
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 3) Phishing Detection using Python and Streamlit
+# 4) Phishing Detection using Python and Streamlit
 <img src="Phishing.png" alt="Lab image">
 
 ## Discription 
