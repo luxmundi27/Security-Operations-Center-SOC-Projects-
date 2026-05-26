@@ -36,7 +36,8 @@ Leveraging Microsoft Defender for Endpoint, KQL-based analytics, and automated p
 - Automating isolation of compromised devices
 - Visualizing endpoint threat trends and anomalies
 - Integrating threat intelligence feeds for enriched detection
-
+  
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 2) Windows Event Monitoring Using Splunk in A Simulated SOC Lab
 
