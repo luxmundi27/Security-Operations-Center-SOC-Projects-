@@ -46,7 +46,7 @@ Leveraging Microsoft Defender for Endpoint, KQL-based analytics, and automated p
 ## Project Objectives
 To simulate a basic SOC environment by collecting and monitoring system logs using Splunk ES, and creating arlets for potential security incidents( Brute force attempts, failed logins etc), create an vizualizse results on dashboards.
 ### SOC Labs with Splunk Forwarders ingesting logs to Splunk ES
-<img src="Resources/Forwarders.png" alt="lab image with forwarders"> 
+<img src="Forwarders (1).png" alt="lab image with forwarders"> 
 
 ### Tools Used
 - Splunk ES (installed locally)
