@@ -126,4 +126,27 @@ This project presents a lightweight and powerful Phishing URL Detection Tool bui
 - Detect whether a URL is phishing or legitimate
 - Build and easy to use web UI with Streamlit
 - Educate users of common phishing indicators
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 5) Vulnerability-Lab
+# SecureNet Vulnerability-Assessment
+## Project Description
+A real world simulation of vulnerability assessment workflow on a small enterprise network using a combination of automated scanners and manual techniques
+<img src="Resources/Network diagram (2).png" alt="Network Diagram">
+## Tools and Technologies
+- Nessus Essential  
+- Nmap
+- OpenVAS
+- Kali Linux
+- Ubuntu20.04
+- Windows 10 
+- Wireshark 
+- Netcat
+ ## Methodology 
+ 1. Assets Discovery: I scanned a network using Nmap to discover live host and services 
+ 2. Scanning: I perform vulnerability scanning using Nessus Essential and OpenVAS.
+ 3. Analysis: Validated finding and assessed risk using CVE CVSS
+ 4. Mitigation: Apply Patches, disabled vulnerability services, updated firewall rules.
+ 5. Reporting: I compiled executive and technical reports with screenshots and logs.
   
