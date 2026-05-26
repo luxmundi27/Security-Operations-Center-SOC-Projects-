@@ -165,7 +165,7 @@ pathlib	Handling and navigating file paths (optional upgrade)
 # SecureNet Vulnerability-Assessment
 ## Project Description
 A real world simulation of vulnerability assessment workflow on a small enterprise network using a combination of automated scanners and manual techniques
-<img src="Resources/Network diagram (2).png" alt="Network Diagram">
+<img src="vulnerability.png" alt="Network Diagram">
 ## Tools and Technologies
 - Nessus Essential  
 - Nmap
