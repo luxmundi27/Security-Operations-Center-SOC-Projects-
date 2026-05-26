@@ -129,7 +129,39 @@ This project presents a lightweight and powerful Phishing URL Detection Tool bui
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 5) Vulnerability-Lab
+# 5) Keylogger-Detection
+## Objective
+Build an educational tool using Python and Streamlit that scans a computer system for signs of keylogger activity—focusing on suspicious files, processes, and startup entries. This app helps users understand basic security hygiene and malware detection principles in a safe, responsible learning context.
+## Problems Solved
+•	Identifying Suspicious Files: Detects common log files that may be dropped by keylogger tools (e.g. log.txt, keylog.txt).
+
+•	Process Monitoring: Flags processes running with names associated with known keylogging software.
+
+•	Startup Entry Scanning: Checks common startup paths for executables that may run silently on boot.
+
+•	Educational Insights: Offers students hands-on exposure to threat detection without engaging in harmful practices.
+## Tools & Technologies Used
+### Tools
+Python	Core scripting language
+
+Streamlit	Interactive and intuitive GUI for real-time scanning
+
+os	File system navigation and access
+
+psutil	Process monitoring and metadata extraction
+
+pathlib	Handling and navigating file paths (optional upgrade)
+## Features
+•	Click-to-scan interface for rapid deployment
+
+•	Categorized output: Files, Processes, Startup Entrances
+
+•	Color-coded alerts: Red (Detected), Green (Clean)
+
+•	Easily customizable lists of known suspicious indicators
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 6) Vulnerability-Lab
 # SecureNet Vulnerability-Assessment
 ## Project Description
 A real world simulation of vulnerability assessment workflow on a small enterprise network using a combination of automated scanners and manual techniques
