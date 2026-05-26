@@ -114,7 +114,7 @@ Develop a user-friendly application that helps identify potential brute-force at
 
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 4) Phishing Detection using Python and Streamlit
-<img src="Phishing.png" alt="Lab image">
+<img src="Phishing (1).png" alt="Lab image">
 
 ## Discription 
 This project presents a lightweight and powerful Phishing URL Detection Tool built with Python and Streamlit. The goal is to protect users from falling victim phishing attacks 
