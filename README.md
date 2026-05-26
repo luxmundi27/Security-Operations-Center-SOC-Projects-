@@ -17,7 +17,7 @@ This diagram illustrates the seamless flow from endpoint telemetry to threat det
 This project showcases a cloud-native Endpoint Detection and Response (EDR) solution built on Microsoft Sentinel, designed to detect, investigate, and respond to threats in real time across distributed environments.
 Leveraging Microsoft Defender for Endpoint, KQL-based analytics, and automated playbooks, this solution demonstrates how to build a scalable, intelligent, and responsive security operations framework in Azure.
 ## Key Features 
-<img src="MSSS.png" alt="Lab image">
+<img src="MSSS (1).png" alt="Lab image">
 
 - Real-Time Threat Detection using custom and built-in Sentinel analytics rules
 - Automated Incident Response via Logic Apps and Sentinel Playbooks
